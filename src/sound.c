@@ -28,6 +28,8 @@ static const char sfx_effect_paths[SE_END][32] = {
 	"sfx/combo_5.wav",
 	"sfx/combo_6.wav",
 	"sfx/combo_7.wav",
+	"sfx/combo_8.wav",
+	"sfx/combo_9.wav",
 	"sfx/hit.wav",
 	"sfx/click.wav"
 };

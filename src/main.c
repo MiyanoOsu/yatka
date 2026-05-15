@@ -819,7 +819,7 @@ void onLineClear(int removed)
 		ttr = 0;
 
 	// play a clearing sound
-	playEffect(combo > SE_COMBO_7X ? SE_COMBO_7X : combo);
+	playEffect(combo > SE_COMBO_9X ? SE_COMBO_9X : combo);
 }
 
 void onGameOver(enum GameOverType reason)
